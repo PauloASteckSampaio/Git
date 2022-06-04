@@ -2,6 +2,6 @@
 
 > Status do projeto: Em desenvolvimento
 
-...
+```
 App.java
-...
+```
