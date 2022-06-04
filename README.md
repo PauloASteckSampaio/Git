@@ -39,10 +39,6 @@ Você pode escrever o que bem quiser. Mas o certo é escrever em poucas palavras
 alterado como 'Correção de bugs no arquivo x.py', 'Implemntada função de contagem' ou
 'Criação de arquivo P.py'
 
-git log - Com este comando é possivel ver todo o historico de commits feito no 
-repositorio. Mas vale lembrar que isto esta relacionado a comandos. Se você não der ao
-menos git commit ele não vai aparecer no arquivo.
-
 git commit -am 'Seu comentário' - Este comado não apenas faz um commit, mas também 
 adiciona as modificações do arquivo. Porem ele não tem a função de rastrear. Isso quer
 dizer que esse comando é inutil se você criar um novo arquivo. Se criar outro arquivo
